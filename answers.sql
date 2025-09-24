@@ -1,7 +1,7 @@
 ## Q1 ##
 CREATE TABLE orderdetail(
 orderID INT PRIMARY KEY,
-customerName VARCHAR(20)
+customerName VARCHAR(25)
 );
 
 CREATE TABLE product(
